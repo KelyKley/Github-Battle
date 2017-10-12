@@ -1,0 +1,13 @@
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.btn-battle{
+    background-color: #040404;
+    color:white;
+    border-radius: none;
+    margin: 0 auto;
+  }
